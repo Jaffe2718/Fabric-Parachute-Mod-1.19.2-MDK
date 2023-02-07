@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "parachute",
+  "version": "${version}",
+  "name": "Parachute Mod",
+  "description": "Parachute Fabric mod for Minecraft",
+  "authors": [
+    "Jaffe2718"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Jaffe2718",
+    "sources": "https://github.com/Jaffe2718/Fabric-Parachute-Mod-1.19.2-MDK",
+    "issues": "https://github.com/Jaffe2718/Fabric-Parachute-Mod-1.19.2-MDK/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/parachute/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "github.jaffe2718.parachute.client.ParachuteModClient"
+    ],
+    "main": [
+      "github.jaffe2718.parachute.ParachuteMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "1.19.2",
+    "geckolib3": ">=3.1.38"
+  }
+}
