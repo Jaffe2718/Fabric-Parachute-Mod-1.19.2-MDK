@@ -67,7 +67,7 @@ by Jaffe2718
 
 ## 联系方式
 
-[bilibili](https://space.bilibili.com/1671742926))
+[bilibili](https://space.bilibili.com/1671742926)
 
 ## 快速链接
 
