@@ -1,6 +1,5 @@
 package github.jaffe2718.parachute.client.model.armor;
 
-import github.jaffe2718.parachute.ParachuteMod;
 import github.jaffe2718.parachute.item.ParachuteItem;
 import net.minecraft.util.Identifier;
 import software.bernie.geckolib3.model.AnimatedGeoModel;

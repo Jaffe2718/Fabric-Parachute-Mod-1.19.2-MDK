@@ -2,11 +2,9 @@ package github.jaffe2718.parachute;
 
 import github.jaffe2718.parachute.register.ItemRegister;
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.client.option.KeyBinding;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.lwjgl.glfw.GLFW;
 
 public class ParachuteMod implements ModInitializer {
 
